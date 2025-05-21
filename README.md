@@ -1,4 +1,3 @@
-````markdown
 # Sistem Manajemen Program Studi
 
 Aplikasi manajemen data Program Studi dan Fakultas berbasis Laravel (REST API) dan Vue.js untuk frontend-nya.
@@ -12,7 +11,7 @@ Aplikasi manajemen data Program Studi dan Fakultas berbasis Laravel (REST API) d
 
 ---
 
-## Instalasi
+# Instalasi
 
 ### 1. Clone project
 
@@ -20,7 +19,6 @@ Aplikasi manajemen data Program Studi dan Fakultas berbasis Laravel (REST API) d
 git clone https://github.com/namamu/nama-repo.git
 cd nama-repo
 ```
-````
 
 ### 2. Instalasi Laravel Backend
 
